@@ -57,7 +57,7 @@ class IntroPage extends StatelessWidget {
                 
                 // Bawah (tombol)
                 MyButton(
-                  text: "MULAI JINK",
+                  text: "MULAI",
                   onTap: (){
                     //go to the next page
                     Navigator.pushNamed(context, '/menupage');

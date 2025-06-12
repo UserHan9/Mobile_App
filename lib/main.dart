@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/intropage':(context) =>const IntroPage(),
         '/menupage':(context) =>const MenuPage(),
-      },A
+      },
       );
     }
   }
